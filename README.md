@@ -27,4 +27,4 @@ pip install web3
     ```bash
 
     screen -S ka
-    python main.py
+    python3 main.py
